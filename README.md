@@ -1,8 +1,6 @@
 # LASA
 Dataset of Lambertian-based Adversarial Attacks to Underwater Side-scan Sonar Image Classification Based on Convolutional Neural Networks
 
-Url: https://drive.google.com/file/d/19cvCUYzCpMEjQb6o16s50Yf3YyEiSr_N/view?usp=share_link
-
 Three categories in total: Corpse (label 0) / Shipwreck (label 1) / Plane Wreckage (label 2) 
 .
 
