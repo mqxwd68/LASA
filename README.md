@@ -1,5 +1,5 @@
 # LASA
-Dataset of [**Lambertian-based adversarial attacks on deep-learning-based underwater side-scan sonar image classification**](https://www.sciencedirect.com/science/article/pii/S003132032300064X?via%3Dihub)
+Dataset of the paper [**Lambertian-based adversarial attacks on deep-learning-based underwater side-scan sonar image classification**](https://www.sciencedirect.com/science/article/pii/S003132032300064X?via%3Dihub)
 
 ### URL
 https://drive.google.com/file/d/1Gy3kap2nRfQ4ndbjX_tExGF_IrMBR8vh/view?usp=sharing
