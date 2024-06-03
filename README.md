@@ -26,7 +26,7 @@ Research only. Commercial use is strictly prohibited
 
 ### Reference
 If you use this dataset please cite it as follows
-'''
+```
 @article{ma2023lambertian,
   title={Lambertian-based adversarial attacks on deep-learning-based underwater side-scan sonar image classification},
   author={Ma, Qixiang and Jiang, Longyu and Yu, Wenxue},
@@ -36,4 +36,4 @@ If you use this dataset please cite it as follows
   year={2023},
   publisher={Elsevier}
 }
-'''
+```
