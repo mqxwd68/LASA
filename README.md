@@ -25,7 +25,8 @@ Three categories in total: Corpse (label 0) / Shipwreck (label 1) / Plane Wrecka
 | rotate samples | ![C_082_rot119](https://github.com/mqxwd68/LASA/blob/main/examples/C_082_rot119.jpg?raw=true) | ![S_039_rot177](https://github.com/mqxwd68/LASA/blob/main/examples/S_039_rot177.jpg?raw=true) | ![P_023_rot253](https://github.com/mqxwd68/LASA/blob/main/examples/P_023_rot253.jpg?raw=true)  |
 | colored samples |  ![C_002_col1417](https://github.com/mqxwd68/LASA/blob/main/examples/C_002_col1417.jpg?raw=true) | ![S_004_rot199_contr1242](https://github.com/mqxwd68/LASA/blob/main/examples/S_004_rot199_contr1242.jpg?raw=true) | ![P_002_rot072_col1431](https://github.com/mqxwd68/LASA/blob/main/examples/P_002_rot072_col1431.jpg?raw=true)   |
 
-Research only. Commercial use is strictly prohibited
+Research only. 
+Commercial use is strictly prohibited.
 
 ### Reference
 If you use this dataset please cite it as follows
